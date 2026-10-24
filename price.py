@@ -45,17 +45,17 @@ from aiogram.exceptions import TelegramAPIError
 # ============================================================
 
 # Токен от @BotFather
-BOT_TOKEN = "ВСТАВЬ_ТОКЕН_СЮДА"
+BOT_TOKEN = "8460061736:AAFdOGa74cPArtA1OwnvR7yNqYsd4cpS-mo"
 
 # Твой числовой Telegram ID (узнать: бот @userinfobot).
 # Несколько админов: {111, 222}
-ADMIN_IDS = {123456789}
+ADMIN_IDS = {5796754554}
 
 # Пароль админки (команда /админ или /admin)
 ADMIN_PASSWORD = "2525"
 
 # Контакт, куда писать за подпиской (показывается в разделе «Подписка»)
-SUPPORT_CONTACT = "@your_username"
+SUPPORT_CONTACT = "@Do_need"
 
 # База данных. Пользователи и подписки из старой базы (OLD_DB_NAME)
 # один раз копируются автоматически, если она лежит рядом.
