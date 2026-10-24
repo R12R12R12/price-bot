@@ -762,7 +762,7 @@ async def receive_duration(message: Message, state: FSMContext):
         f"Название: {data['name'] or 'Не указано'}\n"
         f"{price_status}\n"
         f"Целевая цена: "
-        f"{f'{data['target']:.2f} ₽' if data['target'] else 'не задана'}\n"
+        f"{format(data['target'], '.2f') + ' ₽' if data['target'] else 'не задана'}\n"
         f"Проверка: каждые {message_interval_text(interval)}\n"
         f"Отслеживание до: {fmt_date(now + duration)}",
         reply_markup=main_keyboard()
