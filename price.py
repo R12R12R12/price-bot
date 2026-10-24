@@ -54,7 +54,7 @@ ADMIN_IDS = {5796754554}
 ADMIN_PASSWORD = "2525"
 
 # Контакт, куда писать за подпиской (показывается в разделе «Подписка»)
-SUPPORT_CONTACT = "@your_username"
+SUPPORT_CONTACT = "@Do_need"
 
 DB_NAME = "price_tracker.db"
 
