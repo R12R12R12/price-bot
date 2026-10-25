@@ -45,7 +45,7 @@ from aiogram.exceptions import TelegramAPIError
 # ============================================================
 
 # Токен от @BotFather
-BOT_TOKEN = "8460061736:AAFdOGa74cPArtA1OwnvR7yNqYsd4cpS-mo"
+BOT_TOKEN = "8460061736:AAEp2a1BMTmJPYRwk9hNBb27yiVynpBSvYI"
 
 # Твой числовой Telegram ID (узнать: бот @userinfobot).
 # Несколько админов: {111, 222}
